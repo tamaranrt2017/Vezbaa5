@@ -1,0 +1,22 @@
+{
+  "name": "knjigafunkcijevezba5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knjigafunkcijevezba5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaranrt2017/Vezbaa5.git"
+  },
+  "author": "tamaranrt2017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaranrt2017/Vezbaa5/issues"
+  },
+  "homepage": "https://github.com/tamaranrt2017/Vezbaa5#readme",
+  "dependencies": {
+    "knjigavezba5": "file:../knjigavezba5"
+  }
+}

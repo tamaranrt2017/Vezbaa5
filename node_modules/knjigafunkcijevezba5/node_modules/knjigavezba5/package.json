@@ -1,0 +1,19 @@
+{
+  "name": "knjigavezba5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knjigavezba5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaranrt2017/Vezbaa5.git"
+  },
+  "author": "tamaranrt2017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaranrt2017/Vezbaa5/issues"
+  },
+  "homepage": "https://github.com/tamaranrt2017/Vezbaa5#readme"
+}
